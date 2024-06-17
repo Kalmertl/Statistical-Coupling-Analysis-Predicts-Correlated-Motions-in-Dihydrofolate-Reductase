@@ -1,1 +1,1 @@
-The jupyter notebook file contains all of the scripting necessary to analyze the uploaded trajectory files by SCA assignment.
+The DHFR_SCA_analysis.ipynb jupyter notebook file contains all of the scripting necessary to analyze the uploaded trajectory files by SCA assignment. Supplemental analysis of dihedral angles and hinge distances can be run using the Dihedrals and Hinge distance notebook. 
